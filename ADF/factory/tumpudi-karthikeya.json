@@ -1,0 +1,9 @@
+{
+	"name": "tumpudi-karthikeya",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4f16a39-248f-4f6a-9f3a-df615154c484",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}

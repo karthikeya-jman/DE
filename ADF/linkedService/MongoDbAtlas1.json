@@ -1,0 +1,14 @@
+{
+	"name": "MongoDbAtlas1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "MongoDbAtlas",
+		"typeProperties": {
+			"connectionString": "mongodb+srv://tumpudi:@training.desnm.mongodb.net",
+			"database": "Training",
+			"driverVersion": "v2",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDdCMUQwQzk1LTg5QjItNDA5RS05QTA0LTdFRkUyNTY4QjhBQl9kYjNhMDJkMC1lYWFjLTQ0NDctYjBkNC03NTY5ODFjYjk5YWEiDQp9"
+		}
+	}
+}
