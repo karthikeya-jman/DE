@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: fitness_tracker
+    description: "Raw data tables from the fitness_tracker"
+    database: FITNESS_TRACKER
+    schema: RAW
+
+    tables:
+      - name: customers
+        description: "Contains customer data"
+      - name: products
+        description: "Contains products data"
+      - name: transaction
+        description: "transaction products data"
